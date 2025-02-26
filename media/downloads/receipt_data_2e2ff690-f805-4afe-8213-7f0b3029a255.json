@@ -1,0 +1,153 @@
+{
+    "Date": "07/28/17",
+    "Time": "02:39:48",
+    "Total Amount": 98.21,
+    "Currency": "USD",
+    "Store Name": "Walmart",
+    "Store Address": "231 Bluebell Dr SW, New Philadelphia, OH 44663",
+    "Store Contact": "(330) 339-3991",
+    "Payment Method": "US Debit",
+    "Subtotal": 93.62,
+    "Tax": 4.59,
+    "Category": "General Merchandise",
+    "Total Items Count": 25,
+    "Description": "Purchase of various items including toys, food items, and household products.",
+    "Barcode Number": "720900544961",
+    "Items": [
+        {
+            "Product Name": "Pet Toy",
+            "Quantity": 1,
+            "Price Per Unit": 1.97,
+            "Total Price": 1.97
+        },
+        {
+            "Product Name": "Floppy Puppy",
+            "Quantity": 1,
+            "Price Per Unit": 1.97,
+            "Total Price": 1.97
+        },
+        {
+            "Product Name": "SSSupreme S",
+            "Quantity": 1,
+            "Price Per Unit": 5.92,
+            "Total Price": 5.92
+        },
+        {
+            "Product Name": "2.5 Squeak",
+            "Quantity": 1,
+            "Price Per Unit": 5.94,
+            "Total Price": 5.94
+        },
+        {
+            "Product Name": "Munchy Dmbel",
+            "Quantity": 1,
+            "Price Per Unit": 3.77,
+            "Total Price": 3.77
+        },
+        {
+            "Product Name": "Dog Treat",
+            "Quantity": 1,
+            "Price Per Unit": 5.94,
+            "Total Price": 5.94
+        },
+        {
+            "Product Name": "Ped Pch 1",
+            "Quantity": 1,
+            "Price Per Unit": 0.6,
+            "Total Price": 0.6
+        },
+        {
+            "Product Name": "Ped Pch 1",
+            "Quantity": 1,
+            "Price Per Unit": 0.6,
+            "Total Price": 0.6
+        },
+        {
+            "Product Name": "Coupon 2310",
+            "Quantity": 1,
+            "Price Per Unit": -0.5,
+            "Total Price": -0.5
+        },
+        {
+            "Product Name": "Hnymd Smores",
+            "Quantity": 1,
+            "Price Per Unit": 3.98,
+            "Total Price": 3.98
+        },
+        {
+            "Product Name": "French Drsng",
+            "Quantity": 1,
+            "Price Per Unit": 1.98,
+            "Total Price": 1.98
+        },
+        {
+            "Product Name": "3 Oranges",
+            "Quantity": 1,
+            "Price Per Unit": 5.47,
+            "Total Price": 5.47
+        },
+        {
+            "Product Name": "Baby Carrots",
+            "Quantity": 1,
+            "Price Per Unit": 1.48,
+            "Total Price": 1.48
+        },
+        {
+            "Product Name": "Collards",
+            "Quantity": 2,
+            "Price Per Unit": 1.42,
+            "Total Price": 2.84
+        },
+        {
+            "Product Name": "Calzone",
+            "Quantity": 1,
+            "Price Per Unit": 2,
+            "Total Price": 2
+        },
+        {
+            "Product Name": "MM RVW Mnt",
+            "Quantity": 1,
+            "Price Per Unit": 1.97,
+            "Total Price": 1.97
+        },
+        {
+            "Product Name": "StkobrLplabl",
+            "Quantity": 2,
+            "Price Per Unit": 1.97,
+            "Total Price": 3.94
+        },
+        {
+            "Product Name": "Stko Sunflwr",
+            "Quantity": 3,
+            "Price Per Unit": 0.97,
+            "Total Price": 2.91
+        },
+        {
+            "Product Name": "Bling Beads",
+            "Quantity": 1,
+            "Price Per Unit": 3.97,
+            "Total Price": 3.97
+        },
+        {
+            "Product Name": "Great Value",
+            "Quantity": 1,
+            "Price Per Unit": 4.97,
+            "Total Price": 4.97
+        },
+        {
+            "Product Name": "Lipton",
+            "Quantity": 1,
+            "Price Per Unit": 1.24,
+            "Total Price": 1.24
+        },
+        {
+            "Product Name": "Dry Dog",
+            "Quantity": 1,
+            "Price Per Unit": 12.48,
+            "Total Price": 12.48
+        }
+    ],
+    "barcode_image": "/media/barcodes/barcode_7f4a0160-0f45-4f27-b8ae-6398957de855.png",
+    "barcode_number": "GCTSA5X$B1AS$OJC",
+    "barcode_detected": true
+}
